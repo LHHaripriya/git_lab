@@ -1,1 +1,3 @@
 listening is the key
+implementing is the principle
+
